@@ -33,5 +33,8 @@ void main(String[] arg){
 | Ejemplo            | `<h1>Titulo</h1>`                                  | `# Titulo`                                                |
 
 | Columna 1 | Columna 2 | Columna 3|
-|-----------|-----------|----------|
+|-----------|:-----------:|----------|
 | Renglon 1 | Renglon 2 | Renglon 3|
+
+
+# Aqui teremina el Ejemplo !!!
